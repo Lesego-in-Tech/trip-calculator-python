@@ -1,5 +1,5 @@
 # python inputs-processing-outputs
-This repository contains Python programs based on Chapter 2: Input, Processing, and Output. The files demonstrate how data flows through a program, starting from user input, being processed using variables and calculations, and ending with clear output.
+This repository contains Python programs based on Input, Processing, and Output. The files demonstrate how data flows through a program, starting from user input, being processed using variables and calculations, and ending with clear output.
 
 The focus is on building strong foundational skills in programming logic and understanding how basic Python programs are structured.
 
